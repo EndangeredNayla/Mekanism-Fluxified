@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "mekanismfluxified",
+    "name": "Mekanism Fluxified",
+    "description": "Adds Visual RF to Mekanism",
+    "version": "1.0.0",
+    "credits": "Mekanism Developers for an Amazing Mod that uses RF i mean coverts Joules to Forge Energy.",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "CrankySupertoon"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
