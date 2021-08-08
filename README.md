@@ -1,4 +1,5 @@
-# Mekanism Fluxified [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink] [![Modrinth][modrinthImg]][modrinthLink]
+# Mekanism Fluxified 
+[![Discord][discordImg]][discordLink]  [![CI][ciImg]][ciLink] [![Curseforge][curseImg]][curseLink] [![Modrinth][modrinthImg]][modrinthLink]
 
 
 **Mekanism Fluxified** fluxifys textures for Mekanism
@@ -35,6 +36,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
+
+[ciImg]: https://img.shields.io/github/workflow/status/NoraTheGamer/Mekanism-Fluxified/Java%20CI%20with%20Gradle?style=for-the-badge
+[ciLink]: https://github.com/NoraTheGamer/Mekanism-Fluxified/actions?query=workflow%3A%22Java+CI+with+Gradle%22
+
 
 [curseImg]: https://img.shields.io/badge/dynamic/json?color=orange&label=CurseForge&style=for-the-badge&query=downloadCount&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F395269&cacheSeconds=3600&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MyAyNCI+PHBhdGggZmlsbD0iI2NjY2NjYyIgZD0iTTExLjMgMGwuNyAzSDBzLjIuOS4zIDFjLjMuNS42IDEuMSAxIDEuNSAxLjkgMi4yIDUuMiAzLjEgNy45IDMuNiAxLjkuNCAzLjguNSA1LjcuNmwyLjIgNS45aDEuMmwuNyAxLjloLTFMMTYuMyAyM0gzM2wtMS43LTUuNWgtMWwuNy0xLjloMS4yczEtNi4xIDQuMS04LjljMy0yLjggNi43LTMuMiA2LjctMy4yVjBIMTEuM3ptMTYuOCAxNS4xYy0uOC41LTEuNy41LTIuMy45LS40LjItLjYuOC0uNi44LS40LS45LS45LTEuMi0xLjUtMS40LS42LS4yLTEuNy0uMS0zLjItMS40LTEtLjktMS4xLTIuMS0xLTIuN3YtLjEtLjJjMC0uMSAwLS4yLjEtLjMuMi0uNi43LTEuMiAxLjctMS42IDAgMC0uNyAxIDAgMiAuNC42IDEuMi45IDEuOS41LjMtLjIuNS0uNi42LS45LjItLjcuMi0xLjQtLjQtMS45LS45LS44LTEuMS0xLjktLjUtMi42IDAgMCAuMi45IDEuMS44LjYgMCAuNi0uMi40LS40LS4xLS4zLTEuNC0yLjIuNS0zLjYgMCAwIDEuMi0uOCAyLjYtLjctLjguMS0xLjcuNi0yIDEuNHYuMWMtLjMuOC0uMSAxLjcuNSAyLjUuNC42LjkgMS4xIDEuMSAxLjktLjMtLjEtLjUgMC0uNy4yLS4yLjItLjMuNi0uMi45LjEuMi4zLjQuNS40SDI3Yy4zLS4xLjUtLjUuNC0uOC4yLjIuMy43LjIgMSAwIC4zLS4yLjYtLjMuOC0uMS4yLS4zLjQtLjQuNi0uMS4yLS4yLjQtLjIuNiAwIC4yIDAgLjUuMS43LjQuNiAxLjIgMCAxLjQtLjUuMy0uNi4yLTEuMy0uMi0xLjkgMCAwIC43LjQgMS4yIDEuOC40IDEuMi0uMyAyLjYtMS4xIDMuMXoiLz48L3N2Zz4K
 [curseLink]: https://www.curseforge.com/minecraft/mc-mods/mekanism-fluxified
